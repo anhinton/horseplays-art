@@ -9,6 +9,10 @@ Unless declared otherwise below the art assets in this repo
 are licensed under a 
 [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
+`fonts/Inconsolata` "Inconsolata" Copyright 2006 The Inconsolata Project Authors is licensed under the SIL Open Font License, Version 1.1.
+
+`fonts/Podkova` "Podkova" Copyright 2011 The Podkova Project Authors (contact@cyreal.org) is licensed under the SIL Open Font License, Version 1.1.
+
 `working/horse01.svg` `final/horse01.svg`
 Based on 
 "[Horse walking.](https://www.dreamstime.com/stock-images-horse-walking-image5211324)" 
