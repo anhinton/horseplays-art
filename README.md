@@ -15,6 +15,7 @@ are licensed under a
 
 `icons/menu-icon` "menu" by [Google](https://material.io/resources/icons) is 
 licensed under 
+[Apache license version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
 
 `source/Mangalarga_Marchador.jpg` `working/horse02.svg` 
 `final/horse02.svg`
