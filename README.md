@@ -7,17 +7,14 @@ by [Ashley Noel Hinton](https://canadia.co.nz/).
 
 Unless declared otherwise below the art assets in this repo
 are licensed under a 
-[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).[Apache license version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
 
 `fonts/Inconsolata` "Inconsolata" Copyright 2006 The Inconsolata Project Authors is licensed under the SIL Open Font License, Version 1.1.
 
 `fonts/Podkova` "Podkova" Copyright 2011 The Podkova Project Authors (contact@cyreal.org) is licensed under the SIL Open Font License, Version 1.1.
 
-`working/horse01.svg` `final/horse01.svg`
-Based on 
-"[Horse walking.](https://www.dreamstime.com/stock-images-horse-walking-image5211324)" 
-by [Teresa Kenney](https://www.dreamstime.com/kenneystudios_info)
-© Teresa Kenney - Dreamstime.com
+`icons/menu-icon` "menu" by [Google](https://material.io/resources/icons) is 
+licensed under 
 
 `source/Mangalarga_Marchador.jpg` `working/horse02.svg` 
 `final/horse02.svg`
@@ -37,3 +34,9 @@ is licensed under [CC BY-NC](https://creativecommons.org/licenses/by-nc/2.0/).
 by [Aaron Tubbs](https://www.flickr.com/photos/atubbs/)
 is licensed under 
 [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/).
+
+`working/horse01.svg` `final/horse01.svg`
+Based on 
+"[Horse walking.](https://www.dreamstime.com/stock-images-horse-walking-image5211324)" 
+by [Teresa Kenney](https://www.dreamstime.com/kenneystudios_info)
+© Teresa Kenney - Dreamstime.com
